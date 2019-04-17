@@ -1,0 +1,13 @@
+{
+    "name": "clearbot",
+    "version": "1.0.0",
+    "description": "A simple Discord bot to clear the screen.",
+    "main": "src/main.js",
+    "author": "xoreo",
+    "scripts": {
+        "start": "node src/main.js"
+    },
+    "devDependencies": {
+        "discord.js": "^11.3.2"
+    }
+}
